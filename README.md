@@ -17,5 +17,5 @@ Machine Learning models:
 3: Regression models
 4: Classification models
 
-
+Note: All data merging, data preprocessing, data imputations, features engineering, model training, tuning, and selection is included in the Data_exploration.ipynb. Patient-symptom network and symptoms clustering is included in Symptoms Clustering .ipynb.
 
